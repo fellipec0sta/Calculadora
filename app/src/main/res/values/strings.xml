@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="calculadora">Calculadora de equação do 2º Grau</string>
+    <string name="a">A = 0</string>
+    <string name="b">B = 0</string>
+    <string name="c">C = 0</string>
+    <string name="alterarA">Alterar A</string>
+    <string name="alterarB">Alterar B</string>
+    <string name="alterarC">Alterar C</string>
+    <string name="xlinha">x\' =</string>
+    <string name="x2linhas">x\'\' =</string>
+    <string name="resultado">Resultado:</string>
+    <string name="alterar">Alterar</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
